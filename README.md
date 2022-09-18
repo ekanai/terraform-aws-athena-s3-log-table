@@ -1,0 +1,1 @@
+# terraform-aws-athena-s3-log-table
